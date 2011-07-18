@@ -4,13 +4,14 @@
 
 ## Image 
 
-
+![Heat-example](https://github.com/Alexandre-Strzelewicz/jquery.heat-progressbar/blob/master/heat-example.png)
 
 ## Options
 
 ### Default values
 
-		val : Math.floor(Math.random()*100),  # Value to pass, must be between 0-100
+		val : Math.floor(Math.random()*100),  # Value to pass, must be between 0-100 
+                                                      # else random values are used
 		displayText : true,                   # Display value inside progressbar
 		animate : true,                       # Animate progress bar ?
 		delayMs : 120,                        # Delay to expand progress (only if animated)
