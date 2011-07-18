@@ -4,7 +4,7 @@
 
 ## Image 
 
-![Heat-example](https://github.com/Alexandre-Strzelewicz/jquery.heat-progressbar/blob/master/heat-example.png)
+![Heat-example](https://github.com/Alexandre-Strzelewicz/jquery.heat-progressbar/raw/master/heat-example.png)
 
 ## Options
 
